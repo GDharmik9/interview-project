@@ -16,6 +16,11 @@
     "sourceType": "module",
     "project": ["./tsconfig.json"]
   },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
   "plugins": ["@typescript-eslint", "react"],
   "rules": {
     "react/no-unescaped-entities": ["error", { "forbid": [">", "}"] }]

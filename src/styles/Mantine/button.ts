@@ -9,6 +9,7 @@ const buttonVariants: Record<
   PropertyKey,
   (
     theme: MantineTheme,
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     params: any,
     context: ContextStylesParams
   ) => Record<string, CSSObject>
