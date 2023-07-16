@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://gdharmik9.github.io/static/css/main.17932628.css",
-    "main.js": "https://gdharmik9.github.io/static/js/main.f281251c.js",
+    "main.js": "https://gdharmik9.github.io/static/js/main.af3d1e4b.js",
     "static/js/787.62208a61.chunk.js": "https://gdharmik9.github.io/static/js/787.62208a61.chunk.js",
     "static/media/Lato-Regular.woff2": "https://gdharmik9.github.io/static/media/Lato-Regular.cf0cb273ca399ef6f49e.woff2",
     "static/media/Lato-Bold.woff2": "https://gdharmik9.github.io/static/media/Lato-Bold.053c985717ad3258a6ff.woff2",
@@ -12,11 +12,11 @@
     "static/media/shipped.svg": "https://gdharmik9.github.io/static/media/shipped.9f507830d1d4896f3d6555c5e94e3a4a.svg",
     "index.html": "https://gdharmik9.github.io/index.html",
     "main.17932628.css.map": "https://gdharmik9.github.io/static/css/main.17932628.css.map",
-    "main.f281251c.js.map": "https://gdharmik9.github.io/static/js/main.f281251c.js.map",
+    "main.af3d1e4b.js.map": "https://gdharmik9.github.io/static/js/main.af3d1e4b.js.map",
     "787.62208a61.chunk.js.map": "https://gdharmik9.github.io/static/js/787.62208a61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17932628.css",
-    "static/js/main.f281251c.js"
+    "static/js/main.af3d1e4b.js"
   ]
 }
