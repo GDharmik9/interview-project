@@ -1,6 +1,6 @@
 import DashboardTable from 'common/components/molecules/DashboardTable'
 import SignIn from 'pages/SignIn'
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { Routes, Route } from 'react-router-dom'
 import React from 'react'
 import ForgetPassword from 'pages/ForgetPassword'
 import ResetPassword from 'pages/ResetPassword'
