@@ -9,7 +9,7 @@ import Register from 'pages/Register'
 const App = () => {
   return (
     <div className="App">
-      <BrowserRouter basename="/interview-project">
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path="/" element={<Register />}></Route>
           <Route path="/login" element={<SignIn />}></Route>

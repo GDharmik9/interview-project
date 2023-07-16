@@ -17,6 +17,7 @@
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "axios": "^1.4.0",
+    "env-cmd": "^10.1.0",
     "gh-pages": "^5.0.0",
     "js-cookie": "^3.0.5",
     "react": "^18.2.0",
@@ -29,7 +30,7 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "env-cmd -f .env.production npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
