@@ -9,24 +9,22 @@ import Register from 'pages/Register'
 const App = () => {
   return (
     <div className="App">
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
-          <Route path="/interview-project" element={<Register />}></Route>
-          <Route path="/interview-project/login" element={<SignIn />}></Route>
+          <Route path="/" element={<Register />}></Route>
+          <Route path="/login" element={<SignIn />}></Route>
           <Route
-            path="/interview-project/dashboard"
+            path="/dashboard"
             element={<DashboardTable />}
           ></Route>
           <Route
-            path="/interview-project/forget-password"
+            path="/forget-password"
             element={<ForgetPassword />}
           ></Route>
           <Route
-            path="/interview-project/reset-password"
+            path="/reset-password"
             element={<ResetPassword />}
           ></Route>
         </Routes>
-      </BrowserRouter>
     </div>
   )
 }

@@ -18,7 +18,7 @@ root.render(
       theme={theme}
     >
       <CustomFonts />
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <App />
       </BrowserRouter>
     </MantineProvider>
