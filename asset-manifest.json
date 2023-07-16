@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://gdharmik9.github.io/interview-project/static/css/main.17932628.css",
-    "main.js": "https://gdharmik9.github.io/interview-project/static/js/main.42817c90.js",
-    "static/js/787.62208a61.chunk.js": "https://gdharmik9.github.io/interview-project/static/js/787.62208a61.chunk.js",
-    "static/media/Lato-Regular.woff2": "https://gdharmik9.github.io/interview-project/static/media/Lato-Regular.cf0cb273ca399ef6f49e.woff2",
-    "static/media/Lato-Bold.woff2": "https://gdharmik9.github.io/interview-project/static/media/Lato-Bold.053c985717ad3258a6ff.woff2",
-    "static/media/Lato-Thin.woff2": "https://gdharmik9.github.io/interview-project/static/media/Lato-Thin.2038546181d6af5133e7.woff2",
-    "static/media/delivered.svg": "https://gdharmik9.github.io/interview-project/static/media/delivered.1e584dcfcf6fcaa3b73f9ce18196ccac.svg",
-    "static/media/cancelled.svg": "https://gdharmik9.github.io/interview-project/static/media/cancelled.b8634bb73592f62a6b35ec8df3cfe900.svg",
-    "static/media/notDelivered.svg": "https://gdharmik9.github.io/interview-project/static/media/notDelivered.024caae1b9ddeaafa3573c2cad983376.svg",
-    "static/media/shipped.svg": "https://gdharmik9.github.io/interview-project/static/media/shipped.9f507830d1d4896f3d6555c5e94e3a4a.svg",
-    "index.html": "https://gdharmik9.github.io/interview-project/index.html",
-    "main.17932628.css.map": "https://gdharmik9.github.io/interview-project/static/css/main.17932628.css.map",
-    "main.42817c90.js.map": "https://gdharmik9.github.io/interview-project/static/js/main.42817c90.js.map",
-    "787.62208a61.chunk.js.map": "https://gdharmik9.github.io/interview-project/static/js/787.62208a61.chunk.js.map"
+    "main.css": "https://gdharmik9.github.io/static/css/main.17932628.css",
+    "main.js": "https://gdharmik9.github.io/static/js/main.f281251c.js",
+    "static/js/787.62208a61.chunk.js": "https://gdharmik9.github.io/static/js/787.62208a61.chunk.js",
+    "static/media/Lato-Regular.woff2": "https://gdharmik9.github.io/static/media/Lato-Regular.cf0cb273ca399ef6f49e.woff2",
+    "static/media/Lato-Bold.woff2": "https://gdharmik9.github.io/static/media/Lato-Bold.053c985717ad3258a6ff.woff2",
+    "static/media/Lato-Thin.woff2": "https://gdharmik9.github.io/static/media/Lato-Thin.2038546181d6af5133e7.woff2",
+    "static/media/delivered.svg": "https://gdharmik9.github.io/static/media/delivered.1e584dcfcf6fcaa3b73f9ce18196ccac.svg",
+    "static/media/cancelled.svg": "https://gdharmik9.github.io/static/media/cancelled.b8634bb73592f62a6b35ec8df3cfe900.svg",
+    "static/media/notDelivered.svg": "https://gdharmik9.github.io/static/media/notDelivered.024caae1b9ddeaafa3573c2cad983376.svg",
+    "static/media/shipped.svg": "https://gdharmik9.github.io/static/media/shipped.9f507830d1d4896f3d6555c5e94e3a4a.svg",
+    "index.html": "https://gdharmik9.github.io/index.html",
+    "main.17932628.css.map": "https://gdharmik9.github.io/static/css/main.17932628.css.map",
+    "main.f281251c.js.map": "https://gdharmik9.github.io/static/js/main.f281251c.js.map",
+    "787.62208a61.chunk.js.map": "https://gdharmik9.github.io/static/js/787.62208a61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17932628.css",
-    "static/js/main.42817c90.js"
+    "static/js/main.f281251c.js"
   ]
 }
